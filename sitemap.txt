@@ -9,3 +9,4 @@ https://antino.net/projects/juubix
 https://antino.net/projects/stockbet
 https://antino.net/projects/groundrock
 https://antino.net/contact
+https://antino.net/contact/confirmation
